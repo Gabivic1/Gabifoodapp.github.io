@@ -1,0 +1,200 @@
+body{
+  background-color: black
+}
+header{
+  Text-align:center;
+  color:gold;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-shadow: 5px 3px 5px Red;
+  margin-bottom: 5rem;
+  text-decoration-line: underline
+}
+h1{
+  color:gold;
+  text-shadow: 5px 3px 5px green
+}
+h3{
+  color:gold;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bolder
+}
+.div1{
+  text-align: center
+}
+.btn1{
+  color:white;
+  border-radius: 19px;
+  background-color: gold;
+  text-align: center;
+  padding: 4px 15px;
+  font-size: 19px;
+  font-weight: bold
+}
+.img2{
+  width:100%;
+  height: 100%;
+  margin:2rem 0
+
+}
+.img1{
+  width: 100%;
+  height: 100%;
+  margin:2rem 0
+}
+.div2 {
+  text-align: center;
+  background-color: white;
+  margin:2rem 3rem
+}
+.section{
+  text-align: center;
+  color:gold
+}
+.p1{
+  text-align: center;
+  color: gold;
+  margin-left: 2rem;
+  margin-right: 2rem
+}
+.foodmenu{
+  text-align: center;
+  color: green;
+  margin-top: 5rem
+}
+.fresh{
+  text-align:  center;
+  color: gold
+}
+.extralarge{
+  text-align: center;
+  background-color: white;
+  font-weight: Bold;
+  border-radius:2rem
+}
+.img3{
+  width: 100%;
+  height: 100%;
+  margin:2rem 0
+}
+.btn2{
+  background-color: gold;
+  text-align: center;
+  color:white;
+  border-radius: 19px;
+  padding: 4px 15px;
+  font-size: 19px;
+  font-weight: bold
+}
+.chickenburger{
+  text-align: center;
+  background-color: white;
+  font-weight: Bold;
+  border-radius:2rem;
+  margin-top: 3rem
+}
+.smallsandwhich{
+  text-align: center;
+  background-color: white;
+  font-weight: Bold;
+  border-radius:2rem;
+  background-color:white;
+  margin-top: 3rem
+}
+.mediumburger{
+  text-align: center;
+  background-color: white;
+  font-weight: Bold;
+  border-radius:2rem;
+  background-color:white;
+  margin-top: 3rem
+
+}
+.crispychicken{
+  text-align: center;
+  background-color: white;
+  font-weight: Bold;
+  border-radius:2rem;
+  background-color:white;
+  margin-top: 3rem
+
+}
+.chickenbucket{
+  text-align: center;
+  background-color: white;
+  font-weight: Bold;
+  border-radius:2rem;
+  background-color:white;
+  margin-top: 3rem
+}
+.caramel{
+  text-align: center;
+  background-color: white;
+  font-weight: Bold;
+  border-radius:2rem;
+  background-color:white;
+  margin-top: 3rem
+
+}
+.baconsalad{
+  text-align: center;
+  background-color: white;
+  font-weight: Bold;
+  border-radius:2rem;
+  background-color:white;
+  margin-top: 3rem
+}
+.pepperonipizza{
+  text-align: center;
+  background-color: white;
+  font-weight: Bold;
+  border-radius:2rem;
+  background-color:white;
+  margin-top: 3rem
+}
+.double{
+  text-align: center;
+  background-color: white;
+  font-weight: Bold;
+  border-radius:2rem;
+  background-color:white;
+  margin-top: 3rem
+}
+.service{
+  text-align: center;
+  margin-top:4rem
+}
+.service1{
+color:gold;
+}
+.service2{
+  color:white;
+  font-weight:bold;
+  margin: 0 3rem
+}
+.make{
+  text-align:center;
+  margin:5rem 0
+    
+}
+footer{
+  background-color: white;
+  border-radius: 2rem
+}
+.footer1{
+  color: gold;
+  margin-left: 1rem;
+  text-decoration: underline;
+  
+}
+a{
+  color: green;
+  display: block;
+  text-decoration: none;
+  font-family: Georgia;
+  font-weight: bold;
+  margin-left: 2rem
+  
+}
